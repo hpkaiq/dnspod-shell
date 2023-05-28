@@ -24,7 +24,7 @@ foreach ($data['sites'] as &$site) {
     if ($site['key'] === 'csp_Alist1') {
         $exists = true;
         // 修改 ext 的值
-        $site['ext'] = 'http://la.hpk.me/alist.json';
+        $site['ext'] = 'http://xx.yy/alist.json';
         break;
     }
 }
