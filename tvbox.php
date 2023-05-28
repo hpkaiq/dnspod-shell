@@ -1,6 +1,7 @@
 <?php
 // $json = file_get_contents('https://jm.dovxi.repl.co/api?url=' . $_GET['url']);
 // $json = file_get_contents('http://ltjm.ml/mao.php?url=' . $_GET['url']);
+// $json = file_get_contents('https://duo.serv00.net/crawler.php?url=' . $_GET['url']);
 // 创建上下文流并设置请求头
 $options = array(
     'http' => array(
